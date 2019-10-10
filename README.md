@@ -1,1 +1,1 @@
-# FirstStepsVue.JS
+# FirstStepsVueJS
